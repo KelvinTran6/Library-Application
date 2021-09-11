@@ -1,5 +1,6 @@
 ## Project details
 - Project was created using MongoDb, Express, Node.js and React and is currently hosted using heroku
+- PROJECT DISCONTINUED... Heroku no longer supports Mlab MongoDB
 
 ### Application Features
 - This application allows users to browse through different books and like what they find interesting
